@@ -25,7 +25,7 @@ namespace unitconvertor1
         {
             pManager.AddIntegerParameter("R2", "R", "Provide the value for Red(0-255)", GH_ParamAccess.item, 255);
             pManager.AddIntegerParameter("G2", "G", "Provide the value for Green(0-255)", GH_ParamAccess.item, 255);
-            pManager.AddIntegerParameter("B1", "B", "Provide the value for Blue(0-255)", GH_ParamAccess.item, 255);
+            pManager.AddIntegerParameter("B2", "B", "Provide the value for Blue(0-255)", GH_ParamAccess.item, 255);
         }
 
         /// <summary>
